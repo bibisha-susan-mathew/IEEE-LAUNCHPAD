@@ -1,8 +1,7 @@
-# Full Name 
+# BIBISHA SUSAN MATHEW
 
 ### About Me
-
-> write about your self .................. (minimum 200 Characters)
+Hello, I'm Bibisha Susan Mathew, a fresh graduate in B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. With a passion for technology and a keen interest in AI, I'm eager to explore the endless possibilities it offers to transform industries and improve lives. In the realm of programming, I bring proficiency in Python, C, HTML, and CSS. My journey in software and web development began with an enriching internship experience at Sysbreeze Technologies, Calicut, where I honed my skills and gained practical insights into building dynamic web applications. Driven by a desire to apply AI in healthcare, I undertook notable projects during my academic journey. One such project involved developing a system for depression detection using sentiment analysis techniques. Additionally, I led a team in our main project focused on utilizing Convolutional Neural Networks (CNN) for image classification of chest diseases, aiming to assist healthcare professionals in accurate diagnosis. Beyond academics, I actively engage in various extracurricular activities. I serve as a member of the National Service Scheme (NSS) and have taken on leadership roles as a class representative and as the lead of the AI club. These experiences have not only enriched my interpersonal skills but also instilled in me a sense of responsibility towards community engagement and social impact
 
 
 ## Portfolio Highlights
@@ -11,48 +10,18 @@
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **Protfolio Website**  | Created a simple portfolio website while learning HTML, showcasing personal projects and skills                                           | [Hosted Link 1](https://bibisha-susan-mathew.github.io/Portfolio_website)   | [Repo Link 1](https://github.com/bibisha-susan-mathew/Portfolio_website)             |
+| **Chakka-manga classifier**  | A ML simple project to classify Jackfruit and mango                                              | [Hosted Link 2](https://bibisha-susan-mathew.github.io/chakka-manga-classifier/)    | [Repo Link 2](https://github.com/bibisha-susan-mathew/chakka-manga-classifier)  |
+#### Resume
+Explore my [resume](https://drive.google.com/file/d/1cKQlYc9t_QYWBdyfXwFq3MKXuQDB4m_x/view?usp=sharing) detailing my skills and experiences
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
-
-#### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+Through my involvement in the National Service Scheme (NSS), as well as serving as class and department representative, I have developed strong leadership skills. In NSS, I was part of community welfare initiatives, fostering teamwork and collaboration among peers. As a representative, I effectively communicated student concerns to faculty, advocating for improvements and facilitating dialogue within academic settings. Additionally, leading our AI club enabled me to spearhead projects and workshops, creating an environment that nurtured innovation and skill development among members. These experiences have equipped me with the ability to lead, influence, and collaborate effectively within various domains, demonstrating my dedication to driving positive change.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+I plan to pursue opportunities to join a reputed firm where I can continue to grow professionally and contribute to impactful projects. In the longer term, my aim is to advance into a leading role within such an organization, where I can drive strategic initiatives and foster innovation on a larger scale.
 
 #### Thoughts on Kerala's Tech Ecosystem:
-
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
-
-#### Highly Used Software Tools:
-
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
-
-#### Competitive Website Profiles:
-
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
-
----
+Kerala holds immense potential to excel in the technology startup ecosystem by leveraging its strong educational infrastructure, skilled workforce, and supportive government initiatives. To foster growth, Kerala can focus on creating specialized tech parks and incubators tailored to emerging technologies like AI, biotech, and fintech. Encouraging interdisciplinary collaboration between academia, industry, and government bodies can accelerate innovation and product development. Moreover, initiatives to enhance digital literacy and entrepreneurship among youth, coupled with strategic investments in R&D, will be pivotal in positioning Kerala as a hub for tech innovation in the coming years. By nurturing a vibrant ecosystem that embraces diversity and creativity, Kerala can attract global talent and investment, driving sustainable growth and prosperity in the tech sector.
