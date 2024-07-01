@@ -12,7 +12,8 @@ Hello, I'm Bibisha Susan Mathew, a fresh graduate in B.Tech in Computer Science 
         <br/> [Repo Link](https://github.com/bibisha-susan-mathew/Portfolio_website) <br/>
 - **Chakka-manga classifier**  
     - A ML simple project to classify Jackfruit and mango <br/>[Hosted Link](https://bibisha-susan-mathew.github.io/chakka-manga-classifier/)
-     <br/>[Repo Link](https://github.com/bibisha-susan-mathew/chakka-manga-classifier)  
+     <br/>[Repo Link](https://github.com/bibisha-susan-mathew/chakka-manga-classifier)
+
 #### Resume
 Explore my [resume](https://drive.google.com/file/d/1cKQlYc9t_QYWBdyfXwFq3MKXuQDB4m_x/view?usp=sharing) detailing my skills and experiences
 
